@@ -21,4 +21,4 @@ Variables: 81
 Rstudio.
 
 ## Usage
-I did this competition to harness my skills and experience a data science project from scratch, after the titanic competition, I wanted to train on a regression problem.
+I did this competition to harness my skills and experience a data science project from scratch, after the titanic competition, I wanted to harness my skills on a regression problem.
