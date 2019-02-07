@@ -1,4 +1,7 @@
 # HousePrices
+
+(07/2017)
+
 Predict sales prices and practice feature engineering, RFs, and gradient boosting in R.
 
 Link : https://www.kaggle.com/c/house-prices-advanced-regression-techniques
